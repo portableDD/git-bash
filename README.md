@@ -1,1 +1,1 @@
-# git-bash
+this is my first try out with git and vs code, it has been nice so far and i think i will be a good web develeoper with the little progress i have seen
